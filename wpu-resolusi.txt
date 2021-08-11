@@ -6,5 +6,7 @@ belajar investasi
 friefing dengan diri sendiri
 daftar KGSP
 jalan jalan ke jepang
-membuat vlog
+
 fundamental data structure
+angular
+react
