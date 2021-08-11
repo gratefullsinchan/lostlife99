@@ -7,6 +7,9 @@ friefing dengan diri sendiri
 daftar KGSP
 jalan jalan ke jepang
 
-fundamental data structure
-angular
-react
+
+view 
+
+laravent
+phyton
+
