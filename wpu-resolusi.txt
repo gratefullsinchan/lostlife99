@@ -8,3 +8,7 @@ daftar KGSP
 jalan jalan ke jepang
 membuat vlog
 fundamental data structure
+view 
+
+laravent
+phyton
